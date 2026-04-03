@@ -103,16 +103,16 @@ Full Stack Software Engineer with **3 years of experience** building scalable, *
 <td width="2%" bgcolor="#30363d"></td>
 <td width="48%" align="center" valign="top">
 
-<h3 align="center">YOUR_PROJECT_2_NAME</h3>
+<h3 align="center">Qabas Chocolate</h3>
 
-<a href="YOUR_PROJECT_2_LIVE_URL" target="_blank" rel="noopener noreferrer"><img src="https://via.placeholder.com/960x540/21262d/8b949e?text=Project+2" alt="Project 2 preview" width="100%" style="display:block;border-radius:10px;box-shadow:0 6px 20px rgba(0,0,0,0.35);" /></a>
+<a href="https://qabas-chocolate.vercel.app" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/Qabas-al-ani/QABAS-AL-ANI/main/assets/qabas-chocolate-home.png" alt="Qabas Chocolate — luxury brand promotional site preview" width="100%" style="display:block;border-radius:10px;box-shadow:0 6px 20px rgba(0,0,0,0.35);" /></a>
 
-<p align="left">Short description of the project, stack, and highlights.<br/><br/><strong>Tech:</strong> e.g. React · Redux · MongoDB</p>
+<p align="left">Premium-style promotional site for a luxury chocolate brand—visually rich and memorable, with a codebase kept clean, maintainable, and performant.<br/><br/><strong>Tech:</strong> Next.js · TypeScript · Tailwind CSS · PostCSS · ESLint · Vercel</p>
 
 <p align="center">
-<a href="YOUR_PROJECT_2_LIVE_URL" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/WebSite_Visit-e6b422?style=flat&logo=google-chrome&logoColor=181818&logoHeight=12" alt="Visit website" /></a>
+<a href="https://qabas-chocolate.vercel.app" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/WebSite_Visit-e6b422?style=flat&logo=google-chrome&logoColor=181818&logoHeight=12" alt="Visit website" /></a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="YOUR_PROJECT_2_GITHUB_REPO_URL" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Github_Repo-e6b422?style=flat&logo=github&logoColor=181818&logoHeight=12" alt="GitHub repository" /></a>
+<a href="https://github.com/Qabas-al-ani/Qabas-Chocolate" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Github_Repo-e6b422?style=flat&logo=github&logoColor=181818&logoHeight=12" alt="GitHub repository" /></a>
 </p>
 
 </td>
