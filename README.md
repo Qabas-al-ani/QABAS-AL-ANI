@@ -64,6 +64,29 @@ Full Stack Software Engineer with **3 years of experience** building scalable, *
 - **QMQ Real Estate Inc** · 2020 – 2021 — Front End Developer  
 - **QMQ Real Estate Inc** · 2019 – 2020 — Volunteer  
 
+### Languages
+
+**English** (full professional proficiency) , **Russian** (full professional proficiency) , **Arabic** (native proficiency)
+
+### Nationality
+
+US citizen
+
+### Hobbies
+
+- Contributing to side projects and experimenting with new frameworks  
+- Digital illustration and UI motion studies  
+- Hiking around North Carolina and film photography  
+
+### Contact me
+
+**Email:** [qabasalani1@gmail.com](mailto:qabasalani1@gmail.com)  
+**Phone:** [(919) 345-4370](tel:+19193454370)
+
+<p>
+  <a href="https://qabas-al-ani.github.io/Personal_portfolio/#/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/VISIT_MY_PERSONAL_PORTFOLIO_WEBSITE-F7DF1E?style=for-the-badge&logo=rss&logoColor=black" alt="Visit my personal portfolio website" /></a>
+</p>
+
 #### Technical Stack
 
 <!-- Compact flat badges; links open docs/MDN in a new tab -->
