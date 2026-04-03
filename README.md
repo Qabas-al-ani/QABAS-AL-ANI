@@ -56,23 +56,11 @@ Full Stack Software Engineer with **3 years of experience** building scalable, *
 
 ---
 
-### Professional experience
+### Work history
 
-**Full Stack Software Engineer — Quantworks Inc** · *2022 – Present*  
-- Designed and maintained **AWS Lambda** microservices for scalable, serverless backend architecture.  
-- Developed and optimized **RESTful APIs** supporting data-driven **React** and **Angular** frontends.  
-- Built responsive dashboards with **React**, **Angular**, and **ag-Grid** for complex datasets.  
-- Improved performance via **database schema optimization** and efficient queries (**MongoDB** & SQL).  
-- Contributed to **CI/CD** pipelines, code reviews, and **Agile** delivery of production features.
-
-**Front End Web Developer — QMQ Real Estate Inc** · *2020 – 2021*  
-- Built responsive UI with **HTML, CSS, and JavaScript**; turned mockups into production interfaces.  
-- Improved usability and performance through testing and optimization.  
-- Partnered with backend developers on features and UX.
-
-**Web Developer Intern / Volunteer — QMQ Real Estate Inc** · *2019 – 2020*  
-- Helped develop and maintain web pages and UI components.  
-- Supported backend integrations, configuration, testing, and performance improvements.
+- **Quantworks Inc** · 2022 – Present — Full Stack Web Developer  
+- **QMQ Real Estate Inc** · 2020 – 2021 — Front End Developer  
+- **QMQ Real Estate Inc** · 2019 – 2020 — Volunteer  
 
 ---
 
@@ -110,8 +98,6 @@ E-commerce app with **global state management** and **Stripe** payments.
 </td>
 </tr>
 </table>
-
-*Replace `YOUR_*` links above with your real portfolio and deployed app URLs. If a repository name differs on GitHub, update the repo paths to match.*
 
 ---
 
