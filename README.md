@@ -137,16 +137,16 @@ Full Stack Software Engineer with **3 years of experience** building scalable, *
 <td width="2%" bgcolor="#30363d"></td>
 <td width="48%" align="center" valign="top">
 
-<h4 align="center">Project 4</h4>
+<h4 align="center">Comic Space</h4>
 
-<img src="https://via.placeholder.com/640x360/21262d/8b949e?text=Your+next+build" alt="Fourth project placeholder" width="100%" style="display:block;border-radius:8px;" />
+<a href="https://qabas-al-ani.github.io/comic-space-app/" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/Qabas-al-ani/QABAS-AL-ANI/main/assets/comic-space-preview.png" alt="Comic Space — Marvel collections and marketplace preview" width="100%" style="display:block;border-radius:8px;box-shadow:0 4px 16px rgba(0,0,0,0.35);" /></a>
 
-<p align="left"><small><em>Reserve this card for another repo—replace title, image, description, and button links in <code>README.md</code>.</em></small></p>
+<p align="left"><small>Social platform using the Marvel Comics API—build a digital collection and wishlist, plus a marketplace to buy, sell, and trade comics.<br/><br/><strong>Tech:</strong> React · Node.js · JavaScript · Marvel API · MongoDB · GitHub Pages</small></p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/WebSite_Visit-30363d?style=flat&logo=google-chrome&logoColor=8b949e&logoHeight=10" alt="Add link" />
+<a href="https://qabas-al-ani.github.io/comic-space-app/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/WebSite_Visit-e6b422?style=flat&logo=google-chrome&logoColor=181818&logoHeight=10" alt="Visit website" /></a>
 &nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/GitHub_Repo-30363d?style=flat&logo=github&logoColor=8b949e&logoHeight=10" alt="Add link" />
+<a href="https://github.com/Qabas-al-ani/comic-space-app" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Github_Repo-e6b422?style=flat&logo=github&logoColor=181818&logoHeight=10" alt="GitHub repository" /></a>
 </p>
 
 </td>
