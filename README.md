@@ -117,6 +117,29 @@ Full Stack Software Engineer with **3 years of experience** building scalable, *
 
 </td>
 </tr>
+<tr valign="top">
+<td colspan="3" align="center" valign="top">
+
+<table border="0" cellspacing="0" cellpadding="0" width="48%" align="center">
+<tr><td align="center" valign="top">
+
+<h3 align="center">Redux Shopping Store</h3>
+
+<a href="https://redux-shopping-store-orcin.vercel.app" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/Qabas-al-ani/QABAS-AL-ANI/main/assets/redux-shopping-store-app.png" alt="Redux Shopping Store — e-commerce preview" width="100%" style="display:block;border-radius:10px;box-shadow:0 6px 20px rgba(0,0,0,0.35);" /></a>
+
+<p align="left">Full-stack e-commerce experience: users sign in, browse products, adjust quantities in the cart, pay by card at checkout, and review order history. Focus on a clear shopping flow and reliable state management.<br/><br/><strong>Tech:</strong> React · Redux · Node.js · JavaScript · HTML · CSS · MongoDB · Vercel</p>
+
+<p align="center">
+<a href="https://redux-shopping-store-orcin.vercel.app" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/WebSite_Visit-e6b422?style=flat&logo=google-chrome&logoColor=181818&logoHeight=12" alt="Visit website" /></a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/Qabas-al-ani/Redux-Shopping-Store" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Github_Repo-e6b422?style=flat&logo=github&logoColor=181818&logoHeight=12" alt="GitHub repository" /></a>
+</p>
+
+</td></tr>
+</table>
+
+</td>
+</tr>
 </table>
 
 ---
