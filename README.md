@@ -83,15 +83,13 @@ Full Stack Software Engineer with **3 years of experience** building scalable, *
 <h2>Some Of My Projects</h2>
 </div>
 
-<div align="center">
-
-<table border="0" cellspacing="0" cellpadding="8" width="640" align="center">
+<table border="0" cellspacing="0" cellpadding="8" width="100%" align="center">
 <tr valign="top">
-<td width="305" align="center" valign="top">
+<td width="48%" align="center" valign="top">
 
 <h4 align="center">Qabas Real Estate</h4>
 
-<a href="https://qabas-real-estate.vercel.app" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/Qabas-al-ani/QABAS-AL-ANI/main/assets/qabas-real-estate-preview.png" alt="Qabas Real Estate preview" width="290" style="display:block;margin:0 auto;border-radius:8px;box-shadow:0 4px 16px rgba(0,0,0,0.35);" /></a>
+<a href="https://qabas-real-estate.vercel.app" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/Qabas-al-ani/QABAS-AL-ANI/main/assets/qabas-real-estate-preview.png" alt="Qabas Real Estate preview" width="100%" style="display:block;border-radius:8px;box-shadow:0 4px 16px rgba(0,0,0,0.35);" /></a>
 
 <p align="left"><small>Premium listings UI—responsive layouts, modern React architecture.<br/><br/><strong>Tech:</strong> Next.js · TypeScript · React · Vercel</small></p>
 
@@ -102,12 +100,12 @@ Full Stack Software Engineer with **3 years of experience** building scalable, *
 </p>
 
 </td>
-<td width="10" bgcolor="#30363d"></td>
-<td width="305" align="center" valign="top">
+<td width="2%" bgcolor="#30363d"></td>
+<td width="48%" align="center" valign="top">
 
 <h4 align="center">Qabas Chocolate</h4>
 
-<a href="https://qabas-chocolate.vercel.app" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/Qabas-al-ani/QABAS-AL-ANI/main/assets/qabas-chocolate-home.png" alt="Qabas Chocolate preview" width="290" style="display:block;margin:0 auto;border-radius:8px;box-shadow:0 4px 16px rgba(0,0,0,0.35);" /></a>
+<a href="https://qabas-chocolate.vercel.app" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/Qabas-al-ani/QABAS-AL-ANI/main/assets/qabas-chocolate-home.png" alt="Qabas Chocolate preview" width="100%" style="display:block;border-radius:8px;box-shadow:0 4px 16px rgba(0,0,0,0.35);" /></a>
 
 <p align="left"><small>Luxury brand promo site—rich visuals, clean maintainable stack.<br/><br/><strong>Tech:</strong> Next.js · TypeScript · Tailwind · Vercel</small></p>
 
@@ -121,11 +119,11 @@ Full Stack Software Engineer with **3 years of experience** building scalable, *
 </tr>
 <tr><td colspan="3" height="8"></td></tr>
 <tr valign="top">
-<td width="305" align="center" valign="top">
+<td width="48%" align="center" valign="top">
 
 <h4 align="center">Redux Shopping Store</h4>
 
-<a href="https://redux-shopping-store-orcin.vercel.app" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/Qabas-al-ani/QABAS-AL-ANI/main/assets/redux-shopping-store-app.png" alt="Redux Shopping Store preview" width="290" style="display:block;margin:0 auto;border-radius:8px;box-shadow:0 4px 16px rgba(0,0,0,0.35);" /></a>
+<a href="https://redux-shopping-store-orcin.vercel.app" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/Qabas-al-ani/QABAS-AL-ANI/main/assets/redux-shopping-store-app.png" alt="Redux Shopping Store preview" width="100%" style="display:block;border-radius:8px;box-shadow:0 4px 16px rgba(0,0,0,0.35);" /></a>
 
 <p align="left"><small>E-commerce: auth, cart, checkout, order history—Redux-driven UI.<br/><br/><strong>Tech:</strong> React · Redux · Node.js · MongoDB · Vercel</small></p>
 
@@ -136,12 +134,12 @@ Full Stack Software Engineer with **3 years of experience** building scalable, *
 </p>
 
 </td>
-<td width="10" bgcolor="#30363d"></td>
-<td width="305" align="center" valign="top">
+<td width="2%" bgcolor="#30363d"></td>
+<td width="48%" align="center" valign="top">
 
 <h4 align="center">Project 4</h4>
 
-<img src="https://via.placeholder.com/290x165/21262d/8b949e?text=Your+next+build" alt="Fourth project placeholder" width="290" style="display:block;margin:0 auto;border-radius:8px;" />
+<img src="https://via.placeholder.com/640x360/21262d/8b949e?text=Your+next+build" alt="Fourth project placeholder" width="100%" style="display:block;border-radius:8px;" />
 
 <p align="left"><small><em>Reserve this card for another repo—replace title, image, description, and button links in <code>README.md</code>.</em></small></p>
 
@@ -154,8 +152,6 @@ Full Stack Software Engineer with **3 years of experience** building scalable, *
 </td>
 </tr>
 </table>
-
-</div>
 
 ---
 
