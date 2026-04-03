@@ -44,15 +44,17 @@ Full Stack Software Engineer with **3 years of experience** building scalable, *
 
 ---
 
-### Technical skills
+### Technical Skills
 
-| Area | Stack |
-|------|--------|
-| **Frontend** | React, Angular, JavaScript (ES6+), TypeScript, HTML5, CSS3, Redux, ag-Grid |
-| **Backend** | Python, Node.js, Express, REST APIs, GraphQL |
-| **Cloud & DevOps** | AWS Lambda, API Gateway, Serverless Framework, CI/CD |
-| **Databases** | MongoDB, MySQL, SQL |
-| **Tools** | Git, GitHub, Agile/Scrum |
+**Frontend:** React, Angular, JavaScript (ES6+), TypeScript, HTML5, CSS3, Redux, ag-Grid  
+
+**Backend:** Python, Node.js, Express, REST APIs, GraphQL  
+
+**Databases:** MongoDB, MySQL, SQL  
+
+**Practices:** Agile/Scrum, responsive design, RESTful APIs, accessibility (WCAG), mobile-first UI  
+
+**DevOps & Tools:** Git, GitHub, GitHub Actions, CI/CD, AWS, Lambda, API Gateway, Serverless Framework  
 
 ---
 
