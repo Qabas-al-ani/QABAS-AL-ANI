@@ -81,24 +81,25 @@ Full Stack Software Engineer with **3 years of experience** building scalable, *
 
 <div align="center">
 <h2>Some Of My Projects</h2>
-<p><sub>Replace placeholders below (<code>YOUR_*</code>) with titles, screenshot image URLs, descriptions, live site, and repo links.</sub></p>
+<p><sub>Project 2: replace <code>YOUR_*</code> placeholders. For Qabas Real Estate, set the image <code>src</code> to your screenshot URL when you have it.</sub></p>
 </div>
 
 <table>
 <tr>
 <td width="50%" valign="top" align="center">
 
-#### YOUR_PROJECT_1_NAME
+#### Qabas Real Estate
 
-<a href="YOUR_PROJECT_1_LIVE_URL">
-  <img src="https://via.placeholder.com/420x240/21262d/8b949e?text=Screenshot+%E2%80%94+add+image+URL" alt="YOUR_PROJECT_1_NAME preview" width="100%" />
+<!-- Swap the img src below for your screenshot (e.g. raw.githubusercontent.com/.../preview.png) -->
+<a href="https://qabas-real-estate.vercel.app" target="_blank" rel="noopener noreferrer">
+  <img src="https://via.placeholder.com/420x240/21262d/8b949e?text=Qabas+Real+Estate+%7C+add+your+screenshot" alt="Qabas Real Estate preview" width="100%" />
 </a>
 
-<p align="left">Short description of the project, stack, and highlights. <strong>Tech:</strong> e.g. React · Node · MongoDB</p>
+<p align="left">Polished front-end property platform for premium listings—refined visuals, smooth interactions, and a clean UX. Focus on elegant presentation, responsive layouts, and modern React architecture. <strong>Tech:</strong> Next.js · TypeScript · React · Vercel</p>
 
 <p>
-  <a href="YOUR_PROJECT_1_LIVE_URL"><img src="https://img.shields.io/badge/Website_visit-2ea44f?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Visit website" /></a>
-  <a href="YOUR_PROJECT_1_GITHUB_REPO_URL"><img src="https://img.shields.io/badge/GitHub_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub repository" /></a>
+  <a href="https://qabas-real-estate.vercel.app" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Website_visit-2ea44f?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Visit website" /></a>
+  <a href="https://github.com/Qabas-al-ani/Qabas-Real-Estate" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/GitHub_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub repository" /></a>
 </p>
 
 </td>
