@@ -83,64 +83,79 @@ Full Stack Software Engineer with **3 years of experience** building scalable, *
 <h2>Some Of My Projects</h2>
 </div>
 
-<table border="0" cellspacing="0" cellpadding="12" width="100%" align="center">
+<div align="center">
+
+<table border="0" cellspacing="0" cellpadding="8" width="640" align="center">
 <tr valign="top">
-<td width="48%" align="center" valign="top">
+<td width="305" align="center" valign="top">
 
-<h3 align="center">Qabas Real Estate</h3>
+<h4 align="center">Qabas Real Estate</h4>
 
-<a href="https://qabas-real-estate.vercel.app" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/Qabas-al-ani/QABAS-AL-ANI/main/assets/qabas-real-estate-preview.png" alt="Qabas Real Estate — luxury property platform preview" width="100%" style="display:block;border-radius:10px;box-shadow:0 6px 20px rgba(0,0,0,0.35);" /></a>
+<a href="https://qabas-real-estate.vercel.app" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/Qabas-al-ani/QABAS-AL-ANI/main/assets/qabas-real-estate-preview.png" alt="Qabas Real Estate preview" width="290" style="display:block;margin:0 auto;border-radius:8px;box-shadow:0 4px 16px rgba(0,0,0,0.35);" /></a>
 
-<p align="left">Polished front-end property platform for premium listings—refined visuals, smooth interactions, and a clean UX. Focus on elegant presentation, responsive layouts, and modern React architecture.<br/><br/><strong>Tech:</strong> Next.js · TypeScript · React · Vercel</p>
+<p align="left"><small>Premium listings UI—responsive layouts, modern React architecture.<br/><br/><strong>Tech:</strong> Next.js · TypeScript · React · Vercel</small></p>
 
 <p align="center">
-<a href="https://qabas-real-estate.vercel.app" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/WebSite_Visit-e6b422?style=flat&logo=google-chrome&logoColor=181818&logoHeight=12" alt="Visit website" /></a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/Qabas-al-ani/Qabas-Real-Estate" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Github_Repo-e6b422?style=flat&logo=github&logoColor=181818&logoHeight=12" alt="GitHub repository" /></a>
+<a href="https://qabas-real-estate.vercel.app" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/WebSite_Visit-e6b422?style=flat&logo=google-chrome&logoColor=181818&logoHeight=10" alt="Visit website" /></a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/Qabas-al-ani/Qabas-Real-Estate" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Github_Repo-e6b422?style=flat&logo=github&logoColor=181818&logoHeight=10" alt="GitHub repository" /></a>
 </p>
 
 </td>
-<td width="2%" bgcolor="#30363d"></td>
-<td width="48%" align="center" valign="top">
+<td width="10" bgcolor="#30363d"></td>
+<td width="305" align="center" valign="top">
 
-<h3 align="center">Qabas Chocolate</h3>
+<h4 align="center">Qabas Chocolate</h4>
 
-<a href="https://qabas-chocolate.vercel.app" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/Qabas-al-ani/QABAS-AL-ANI/main/assets/qabas-chocolate-home.png" alt="Qabas Chocolate — luxury brand promotional site preview" width="100%" style="display:block;border-radius:10px;box-shadow:0 6px 20px rgba(0,0,0,0.35);" /></a>
+<a href="https://qabas-chocolate.vercel.app" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/Qabas-al-ani/QABAS-AL-ANI/main/assets/qabas-chocolate-home.png" alt="Qabas Chocolate preview" width="290" style="display:block;margin:0 auto;border-radius:8px;box-shadow:0 4px 16px rgba(0,0,0,0.35);" /></a>
 
-<p align="left">Premium-style promotional site for a luxury chocolate brand—visually rich and memorable, with a codebase kept clean, maintainable, and performant.<br/><br/><strong>Tech:</strong> Next.js · TypeScript · Tailwind CSS · PostCSS · ESLint · Vercel</p>
+<p align="left"><small>Luxury brand promo site—rich visuals, clean maintainable stack.<br/><br/><strong>Tech:</strong> Next.js · TypeScript · Tailwind · Vercel</small></p>
 
 <p align="center">
-<a href="https://qabas-chocolate.vercel.app" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/WebSite_Visit-e6b422?style=flat&logo=google-chrome&logoColor=181818&logoHeight=12" alt="Visit website" /></a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/Qabas-al-ani/Qabas-Chocolate" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Github_Repo-e6b422?style=flat&logo=github&logoColor=181818&logoHeight=12" alt="GitHub repository" /></a>
+<a href="https://qabas-chocolate.vercel.app" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/WebSite_Visit-e6b422?style=flat&logo=google-chrome&logoColor=181818&logoHeight=10" alt="Visit website" /></a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/Qabas-al-ani/Qabas-Chocolate" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Github_Repo-e6b422?style=flat&logo=github&logoColor=181818&logoHeight=10" alt="GitHub repository" /></a>
 </p>
 
 </td>
 </tr>
+<tr><td colspan="3" height="8"></td></tr>
 <tr valign="top">
-<td colspan="3" align="center" valign="top">
+<td width="305" align="center" valign="top">
 
-<table border="0" cellspacing="0" cellpadding="0" width="48%" align="center">
-<tr><td align="center" valign="top">
+<h4 align="center">Redux Shopping Store</h4>
 
-<h3 align="center">Redux Shopping Store</h3>
+<a href="https://redux-shopping-store-orcin.vercel.app" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/Qabas-al-ani/QABAS-AL-ANI/main/assets/redux-shopping-store-app.png" alt="Redux Shopping Store preview" width="290" style="display:block;margin:0 auto;border-radius:8px;box-shadow:0 4px 16px rgba(0,0,0,0.35);" /></a>
 
-<a href="https://redux-shopping-store-orcin.vercel.app" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/Qabas-al-ani/QABAS-AL-ANI/main/assets/redux-shopping-store-app.png" alt="Redux Shopping Store — e-commerce preview" width="100%" style="display:block;border-radius:10px;box-shadow:0 6px 20px rgba(0,0,0,0.35);" /></a>
-
-<p align="left">Full-stack e-commerce experience: users sign in, browse products, adjust quantities in the cart, pay by card at checkout, and review order history. Focus on a clear shopping flow and reliable state management.<br/><br/><strong>Tech:</strong> React · Redux · Node.js · JavaScript · HTML · CSS · MongoDB · Vercel</p>
+<p align="left"><small>E-commerce: auth, cart, checkout, order history—Redux-driven UI.<br/><br/><strong>Tech:</strong> React · Redux · Node.js · MongoDB · Vercel</small></p>
 
 <p align="center">
-<a href="https://redux-shopping-store-orcin.vercel.app" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/WebSite_Visit-e6b422?style=flat&logo=google-chrome&logoColor=181818&logoHeight=12" alt="Visit website" /></a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/Qabas-al-ani/Redux-Shopping-Store" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Github_Repo-e6b422?style=flat&logo=github&logoColor=181818&logoHeight=12" alt="GitHub repository" /></a>
+<a href="https://redux-shopping-store-orcin.vercel.app" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/WebSite_Visit-e6b422?style=flat&logo=google-chrome&logoColor=181818&logoHeight=10" alt="Visit website" /></a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/Qabas-al-ani/Redux-Shopping-Store" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Github_Repo-e6b422?style=flat&logo=github&logoColor=181818&logoHeight=10" alt="GitHub repository" /></a>
 </p>
 
-</td></tr>
-</table>
+</td>
+<td width="10" bgcolor="#30363d"></td>
+<td width="305" align="center" valign="top">
+
+<h4 align="center">Project 4</h4>
+
+<img src="https://via.placeholder.com/290x165/21262d/8b949e?text=Your+next+build" alt="Fourth project placeholder" width="290" style="display:block;margin:0 auto;border-radius:8px;" />
+
+<p align="left"><small><em>Reserve this card for another repo—replace title, image, description, and button links in <code>README.md</code>.</em></small></p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/WebSite_Visit-30363d?style=flat&logo=google-chrome&logoColor=8b949e&logoHeight=10" alt="Add link" />
+&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/GitHub_Repo-30363d?style=flat&logo=github&logoColor=8b949e&logoHeight=10" alt="Add link" />
+</p>
 
 </td>
 </tr>
 </table>
+
+</div>
 
 ---
 
