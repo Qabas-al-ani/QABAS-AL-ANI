@@ -84,51 +84,45 @@ Full Stack Software Engineer with **3 years of experience** building scalable, *
 <p><sub>Project 2: replace <code>YOUR_*</code> placeholders and add a screenshot file under <code>assets/</code> if you like.</sub></p>
 </div>
 
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<div align="center">
+
+<table border="0" cellspacing="0" cellpadding="0" width="560" align="center">
 <tr valign="top">
-<td width="48%" align="center" valign="top">
+<td width="268" align="center" valign="top">
 
-<h3 align="center">Qabas Real Estate</h3>
+<h4 align="center">Qabas Real Estate</h4>
 
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
-<tr><td bgcolor="#30363d" align="left" height="32" valign="middle">&nbsp;&nbsp;🔴 🟡 🟢</td></tr>
-<tr><td>
-<a href="https://qabas-real-estate.vercel.app" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/Qabas-al-ani/QABAS-AL-ANI/main/assets/qabas-real-estate-preview.png" alt="Qabas Real Estate — luxury property platform preview" width="100%" style="display:block;border-radius:0 0 12px 12px;box-shadow:0 8px 32px rgba(0,0,0,0.35);" /></a>
-</td></tr>
-</table>
+<a href="https://qabas-real-estate.vercel.app" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/Qabas-al-ani/QABAS-AL-ANI/main/assets/qabas-real-estate-preview.png" alt="Qabas Real Estate — luxury property platform preview" width="260" style="display:block;margin:0 auto;border-radius:10px;box-shadow:0 6px 20px rgba(0,0,0,0.35);" /></a>
 
-<p align="left">Polished front-end property platform for premium listings—refined visuals, smooth interactions, and a clean UX. Focus on elegant presentation, responsive layouts, and modern React architecture.<br/><br/><strong>Tech:</strong> Next.js · TypeScript · React · Vercel</p>
+<p align="left"><small>Polished front-end property platform for premium listings—refined visuals, smooth interactions, and a clean UX. Focus on elegant presentation, responsive layouts, and modern React architecture.<br/><br/><strong>Tech:</strong> Next.js · TypeScript · React · Vercel</small></p>
 
 <p align="center">
-<a href="https://qabas-real-estate.vercel.app" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/WebSite_Visit-e6b422?style=flat&logo=google-chrome&logoColor=181818&logoHeight=12" alt="Visit website" /></a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/Qabas-al-ani/Qabas-Real-Estate" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Github_Repo-e6b422?style=flat&logo=github&logoColor=181818&logoHeight=12" alt="GitHub repository" /></a>
+<a href="https://qabas-real-estate.vercel.app" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/WebSite_Visit-e6b422?style=flat&logo=google-chrome&logoColor=181818&logoHeight=10" alt="Visit website" /></a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/Qabas-al-ani/Qabas-Real-Estate" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Github_Repo-e6b422?style=flat&logo=github&logoColor=181818&logoHeight=10" alt="GitHub repository" /></a>
 </p>
 
 </td>
-<td width="2%" bgcolor="#30363d"></td>
-<td width="48%" align="center" valign="top">
+<td width="10" bgcolor="#30363d"></td>
+<td width="268" align="center" valign="top">
 
-<h3 align="center">YOUR_PROJECT_2_NAME</h3>
+<h4 align="center">YOUR_PROJECT_2_NAME</h4>
 
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
-<tr><td bgcolor="#30363d" align="left" height="32" valign="middle">&nbsp;&nbsp;🔴 🟡 🟢</td></tr>
-<tr><td>
-<a href="YOUR_PROJECT_2_LIVE_URL" target="_blank" rel="noopener noreferrer"><img src="https://via.placeholder.com/640x360/21262d/8b949e?text=Project+2+%7C+screenshot" alt="Project 2 preview" width="100%" style="display:block;border-radius:0 0 12px 12px;box-shadow:0 8px 32px rgba(0,0,0,0.35);" /></a>
-</td></tr>
-</table>
+<a href="YOUR_PROJECT_2_LIVE_URL" target="_blank" rel="noopener noreferrer"><img src="https://via.placeholder.com/520x300/21262d/8b949e?text=Project+2" alt="Project 2 preview" width="260" style="display:block;margin:0 auto;border-radius:10px;box-shadow:0 6px 20px rgba(0,0,0,0.35);" /></a>
 
-<p align="left">Short description of the project, stack, and highlights.<br/><br/><strong>Tech:</strong> e.g. React · Redux · MongoDB</p>
+<p align="left"><small>Short description of the project, stack, and highlights.<br/><br/><strong>Tech:</strong> e.g. React · Redux · MongoDB</small></p>
 
 <p align="center">
-<a href="YOUR_PROJECT_2_LIVE_URL" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/WebSite_Visit-e6b422?style=flat&logo=google-chrome&logoColor=181818&logoHeight=12" alt="Visit website" /></a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="YOUR_PROJECT_2_GITHUB_REPO_URL" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Github_Repo-e6b422?style=flat&logo=github&logoColor=181818&logoHeight=12" alt="GitHub repository" /></a>
+<a href="YOUR_PROJECT_2_LIVE_URL" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/WebSite_Visit-e6b422?style=flat&logo=google-chrome&logoColor=181818&logoHeight=10" alt="Visit website" /></a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="YOUR_PROJECT_2_GITHUB_REPO_URL" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Github_Repo-e6b422?style=flat&logo=github&logoColor=181818&logoHeight=10" alt="GitHub repository" /></a>
 </p>
 
 </td>
 </tr>
 </table>
+
+</div>
 
 ---
 
