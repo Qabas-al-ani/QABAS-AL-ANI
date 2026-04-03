@@ -81,7 +81,7 @@ Full Stack Software Engineer with **3 years of experience** building scalable, *
 
 <div align="center">
 <h2>Some Of My Projects</h2>
-<p><sub>Replace project 2 placeholders. For screenshots, set each <code>img src</code> to a hosted image URL (e.g. <code>raw.githubusercontent.com/...</code>).</sub></p>
+<p><sub>Project 2: replace <code>YOUR_*</code> placeholders and add a screenshot file under <code>assets/</code> if you like.</sub></p>
 </div>
 
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
@@ -93,8 +93,7 @@ Full Stack Software Engineer with **3 years of experience** building scalable, *
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
 <tr><td bgcolor="#30363d" align="left" height="32" valign="middle">&nbsp;&nbsp;🔴 🟡 🟢</td></tr>
 <tr><td>
-<!-- Swap img src when you have a screenshot -->
-<a href="https://qabas-real-estate.vercel.app" target="_blank" rel="noopener noreferrer"><img src="https://via.placeholder.com/640x360/21262d/8b949e?text=Qabas+Real+Estate+%7C+screenshot" alt="Qabas Real Estate preview" width="100%" style="display:block;border-radius:0 0 12px 12px;box-shadow:0 8px 32px rgba(0,0,0,0.35);" /></a>
+<a href="https://qabas-real-estate.vercel.app" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/Qabas-al-ani/QABAS-AL-ANI/main/assets/qabas-real-estate-preview.png" alt="Qabas Real Estate — luxury property platform preview" width="100%" style="display:block;border-radius:0 0 12px 12px;box-shadow:0 8px 32px rgba(0,0,0,0.35);" /></a>
 </td></tr>
 </table>
 
