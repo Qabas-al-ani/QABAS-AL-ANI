@@ -1,4 +1,4 @@
-<!-- Profile README: https://github.com/Qabas-al-ani/QABAS-AL-ANI — add project live demo URLs when ready -->
+<!-- Profile README: https://github.com/Qabas-al-ani/QABAS-AL-ANI -->
 
 <div align="center">
 
@@ -64,59 +64,7 @@ Full Stack Software Engineer with **3 years of experience** building scalable, *
 
 ---
 
-### Featured projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-#### Comic-Space · MERN + GraphQL
-
-Full-stack social platform with **authentication**, **marketplace** features, and third-party API integrations.
-
-**Tech:** React · Node.js · MongoDB · GraphQL · JWT
-
-<p>
-  <a href="https://github.com/Qabas-al-ani/Comic-Space"><img src="https://img.shields.io/badge/GitHub_Repo-181717?style=for-the-badge&logo=github" alt="Repo" /></a>
-  <a href="https://YOUR_COMIC_SPACE_DEMO"><img src="https://img.shields.io/badge/Live_Demo-2ea44f?style=for-the-badge" alt="Live demo" /></a>
-</p>
-
-</td>
-<td width="50%" valign="top">
-
-#### Redux Shopping Store · MERN
-
-E-commerce app with **global state management** and **Stripe** payments.
-
-**Tech:** React · Redux · Node.js · MongoDB
-
-<p>
-  <a href="https://github.com/Qabas-al-ani/Redux-Shopping-Store"><img src="https://img.shields.io/badge/GitHub_Repo-181717?style=for-the-badge&logo=github" alt="Repo" /></a>
-  <a href="https://YOUR_REDUX_STORE_DEMO"><img src="https://img.shields.io/badge/Live_Demo-2ea44f?style=for-the-badge" alt="Live demo" /></a>
-</p>
-
-</td>
-</tr>
-</table>
-
----
-
 ### Education
 
 - **UNC Chapel Hill** — Certificate, Full Stack Web Development  
 - **Kharkov State Medical University** — Bachelor of Medicine  
-
----
-
-### GitHub activity
-
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Qabas-al-ani&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Qabas-al-ani&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.demolab.com/?user=Qabas-al-ani&theme=tokyonight&hide_border=true" alt="Git streak" />
-</p>
-
-<p align="right"><a href="#"><b>↑ Back to top</b></a></p>
