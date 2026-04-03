@@ -1,8 +1,6 @@
 <!-- Profile README: https://github.com/Qabas-al-ani/QABAS-AL-ANI — set Portfolio + Live Demo URLs where noted -->
 
 <div align="center">
-  <img src="https://github.com/Qabas-al-ani.png" alt="Qabas Al Ani" width="180" style="border-radius: 50%;" />
-  <h1>Hi, I'm Qabas Al Ani 👋</h1>
   <p><strong>Full Stack Software Engineer</strong> · Raleigh, NC · React · Angular · Python · AWS</p>
   <p><em>Open to full-stack and frontend opportunities · US-based · Remote or hybrid</em></p>
 </div>
