@@ -81,41 +81,50 @@ Full Stack Software Engineer with **3 years of experience** building scalable, *
 
 <div align="center">
 <h2>Some Of My Projects</h2>
-<p><sub>Project 2: replace <code>YOUR_*</code> placeholders. For Qabas Real Estate, set the image <code>src</code> to your screenshot URL when you have it.</sub></p>
+<p><sub>Replace project 2 placeholders. For screenshots, set each <code>img src</code> to a hosted image URL (e.g. <code>raw.githubusercontent.com/...</code>).</sub></p>
 </div>
 
-<table>
-<tr>
-<td width="50%" valign="top" align="center">
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr valign="top">
+<td width="48%" align="center" valign="top">
 
-#### Qabas Real Estate
+<h3 align="center">Qabas Real Estate</h3>
 
-<!-- Swap the img src below for your screenshot (e.g. raw.githubusercontent.com/.../preview.png) -->
-<a href="https://qabas-real-estate.vercel.app" target="_blank" rel="noopener noreferrer">
-  <img src="https://via.placeholder.com/420x240/21262d/8b949e?text=Qabas+Real+Estate+%7C+add+your+screenshot" alt="Qabas Real Estate preview" width="100%" />
-</a>
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr><td bgcolor="#30363d" align="left" height="32" valign="middle">&nbsp;&nbsp;🔴 🟡 🟢</td></tr>
+<tr><td>
+<!-- Swap img src when you have a screenshot -->
+<a href="https://qabas-real-estate.vercel.app" target="_blank" rel="noopener noreferrer"><img src="https://via.placeholder.com/640x360/21262d/8b949e?text=Qabas+Real+Estate+%7C+screenshot" alt="Qabas Real Estate preview" width="100%" style="display:block;border-radius:0 0 12px 12px;box-shadow:0 8px 32px rgba(0,0,0,0.35);" /></a>
+</td></tr>
+</table>
 
-<p align="left">Polished front-end property platform for premium listings—refined visuals, smooth interactions, and a clean UX. Focus on elegant presentation, responsive layouts, and modern React architecture. <strong>Tech:</strong> Next.js · TypeScript · React · Vercel</p>
+<p align="left">Polished front-end property platform for premium listings—refined visuals, smooth interactions, and a clean UX. Focus on elegant presentation, responsive layouts, and modern React architecture.<br/><br/><strong>Tech:</strong> Next.js · TypeScript · React · Vercel</p>
 
-<p>
-  <a href="https://qabas-real-estate.vercel.app" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Website_visit-2ea44f?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Visit website" /></a>
-  <a href="https://github.com/Qabas-al-ani/Qabas-Real-Estate" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/GitHub_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub repository" /></a>
+<p align="center">
+<a href="https://qabas-real-estate.vercel.app" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/WebSite_Visit-e6b422?style=flat&logo=google-chrome&logoColor=181818&logoHeight=12" alt="Visit website" /></a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/Qabas-al-ani/Qabas-Real-Estate" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Github_Repo-e6b422?style=flat&logo=github&logoColor=181818&logoHeight=12" alt="GitHub repository" /></a>
 </p>
 
 </td>
-<td width="50%" valign="top" align="center">
+<td width="2%" bgcolor="#30363d"></td>
+<td width="48%" align="center" valign="top">
 
-#### YOUR_PROJECT_2_NAME
+<h3 align="center">YOUR_PROJECT_2_NAME</h3>
 
-<a href="YOUR_PROJECT_2_LIVE_URL">
-  <img src="https://via.placeholder.com/420x240/21262d/8b949e?text=Screenshot+%E2%80%94+add+image+URL" alt="YOUR_PROJECT_2_NAME preview" width="100%" />
-</a>
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr><td bgcolor="#30363d" align="left" height="32" valign="middle">&nbsp;&nbsp;🔴 🟡 🟢</td></tr>
+<tr><td>
+<a href="YOUR_PROJECT_2_LIVE_URL" target="_blank" rel="noopener noreferrer"><img src="https://via.placeholder.com/640x360/21262d/8b949e?text=Project+2+%7C+screenshot" alt="Project 2 preview" width="100%" style="display:block;border-radius:0 0 12px 12px;box-shadow:0 8px 32px rgba(0,0,0,0.35);" /></a>
+</td></tr>
+</table>
 
-<p align="left">Short description of the project, stack, and highlights. <strong>Tech:</strong> e.g. React · Redux · MongoDB</p>
+<p align="left">Short description of the project, stack, and highlights.<br/><br/><strong>Tech:</strong> e.g. React · Redux · MongoDB</p>
 
-<p>
-  <a href="YOUR_PROJECT_2_LIVE_URL"><img src="https://img.shields.io/badge/Website_visit-2ea44f?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Visit website" /></a>
-  <a href="YOUR_PROJECT_2_GITHUB_REPO_URL"><img src="https://img.shields.io/badge/GitHub_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub repository" /></a>
+<p align="center">
+<a href="YOUR_PROJECT_2_LIVE_URL" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/WebSite_Visit-e6b422?style=flat&logo=google-chrome&logoColor=181818&logoHeight=12" alt="Visit website" /></a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="YOUR_PROJECT_2_GITHUB_REPO_URL" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Github_Repo-e6b422?style=flat&logo=github&logoColor=181818&logoHeight=12" alt="GitHub repository" /></a>
 </p>
 
 </td>
