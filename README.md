@@ -81,7 +81,6 @@ Full Stack Software Engineer with **3 years of experience** building scalable, *
 
 <div align="center">
 <h2>Some Of My Projects</h2>
-<p><sub>Project 2: replace <code>YOUR_*</code> placeholders and add a screenshot file under <code>assets/</code> if you like.</sub></p>
 </div>
 
 <table border="0" cellspacing="0" cellpadding="12" width="100%" align="center">
