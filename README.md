@@ -79,6 +79,50 @@ Full Stack Software Engineer with **3 years of experience** building scalable, *
 
 ---
 
+<div align="center">
+<h2>Some Of My Projects</h2>
+<p><sub>Replace placeholders below (<code>YOUR_*</code>) with titles, screenshot image URLs, descriptions, live site, and repo links.</sub></p>
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top" align="center">
+
+#### YOUR_PROJECT_1_NAME
+
+<a href="YOUR_PROJECT_1_LIVE_URL">
+  <img src="https://via.placeholder.com/420x240/21262d/8b949e?text=Screenshot+%E2%80%94+add+image+URL" alt="YOUR_PROJECT_1_NAME preview" width="100%" />
+</a>
+
+<p align="left">Short description of the project, stack, and highlights. <strong>Tech:</strong> e.g. React · Node · MongoDB</p>
+
+<p>
+  <a href="YOUR_PROJECT_1_LIVE_URL"><img src="https://img.shields.io/badge/Website_visit-2ea44f?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Visit website" /></a>
+  <a href="YOUR_PROJECT_1_GITHUB_REPO_URL"><img src="https://img.shields.io/badge/GitHub_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub repository" /></a>
+</p>
+
+</td>
+<td width="50%" valign="top" align="center">
+
+#### YOUR_PROJECT_2_NAME
+
+<a href="YOUR_PROJECT_2_LIVE_URL">
+  <img src="https://via.placeholder.com/420x240/21262d/8b949e?text=Screenshot+%E2%80%94+add+image+URL" alt="YOUR_PROJECT_2_NAME preview" width="100%" />
+</a>
+
+<p align="left">Short description of the project, stack, and highlights. <strong>Tech:</strong> e.g. React · Redux · MongoDB</p>
+
+<p>
+  <a href="YOUR_PROJECT_2_LIVE_URL"><img src="https://img.shields.io/badge/Website_visit-2ea44f?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Visit website" /></a>
+  <a href="YOUR_PROJECT_2_GITHUB_REPO_URL"><img src="https://img.shields.io/badge/GitHub_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub repository" /></a>
+</p>
+
+</td>
+</tr>
+</table>
+
+---
+
 ### Education
 
 - **UNC Chapel Hill** — Certificate, Full Stack Web Development  
