@@ -91,7 +91,7 @@ Full Stack Software Engineer with **3 years of experience** building scalable, *
 
 <a href="https://qabas-real-estate.vercel.app" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/Qabas-al-ani/QABAS-AL-ANI/main/assets/qabas-real-estate-preview.png" alt="Qabas Real Estate preview" width="100%" style="display:block;border-radius:8px;box-shadow:0 4px 16px rgba(0,0,0,0.35);" /></a>
 
-<p align="left"><small>Premium listings UI—responsive layouts, modern React architecture.<br/><br/><strong>Tech:</strong> Next.js · TypeScript · React · Vercel</small></p>
+<p align="left"><small>A modern luxury real estate experience built with Next.js 15, React 19, TypeScript, and Tailwind CSS 4, Motion for subtle premium animations.</small></p>
 
 <p align="center">
 <a href="https://qabas-real-estate.vercel.app" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/WebSite_Visit-e6b422?style=flat&logo=google-chrome&logoColor=181818&logoHeight=10" alt="Visit website" /></a>
@@ -107,7 +107,7 @@ Full Stack Software Engineer with **3 years of experience** building scalable, *
 
 <a href="https://qabas-chocolate.vercel.app" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/Qabas-al-ani/QABAS-AL-ANI/main/assets/qabas-chocolate-home.png" alt="Qabas Chocolate preview" width="100%" style="display:block;border-radius:8px;box-shadow:0 4px 16px rgba(0,0,0,0.35);" /></a>
 
-<p align="left"><small>Luxury brand promo site—rich visuals, clean maintainable stack.<br/><br/><strong>Tech:</strong> Next.js · TypeScript · Tailwind · Vercel</small></p>
+<p align="left"><small>A modern chocolate brand landing page built with Next.js 16, React 19, TypeScript, and Tailwind CSS 4. This project also achieved a full Lighthouse score, with 100% green results.</small></p>
 
 <p align="center">
 <a href="https://qabas-chocolate.vercel.app" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/WebSite_Visit-e6b422?style=flat&logo=google-chrome&logoColor=181818&logoHeight=10" alt="Visit website" /></a>
